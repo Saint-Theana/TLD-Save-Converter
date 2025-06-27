@@ -1,6 +1,10 @@
 # TLD-Save-Converter
 convert the long dark game save data into json format.
 
+# Notice
+Modifying save data might cause unknown issues. You should back up your save data before attempting any modifications. If you lose your save file or mess up your game, I am not responsible for it."
+
+
 # How to use
 usage: test.py [-h] -i INPUT -o OUTPUT (-e | -d)  
 optional arguments:<br> 
