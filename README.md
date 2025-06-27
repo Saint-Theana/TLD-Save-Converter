@@ -18,4 +18,6 @@ example:<br>
 python3 converter.py -i sandbox1 -d -o decoded.json<br>
 python3 converter.py -o sandbox1_new -e -i decoded.json<br>
 
+# Thanks
+[TLD-Save-Editor](https://github.com/FINDarkside/TLD-Save-Editor)
 
